@@ -1,7 +1,7 @@
 
 ## Why it's awesome?
 
-Millistrap provides a minimal setup of styles for a fast and clean starting point. Just it! **Only 2kb gzipped!** It's not about a UI framework. Specially designed for better performance and higher productivity with fewer properties to reset resulting in cleaner code. Hope you enjoy!
+Millistrap is a fork of the [Milligram](http://github.com/milligram/milligram) project that supports RTL text direction. Millistrap provides a minimal setup of styles for a fast and clean starting point. Just it! **Only 2kb gzipped!** It's not about a UI framework. Specially designed for better performance and higher productivity with fewer properties to reset resulting in cleaner code. Hope you enjoy!
 
 
 ## Download
@@ -43,4 +43,4 @@ Want to contribute? Follow these [recommendations](https://github.com/milligram/
 
 ## License
 
-Designed with ♥ by [Mohammad Sharifi](http://lenus.org). Licensed under the [MIT License](http://cjpatoilo.mit-license.org).
+Designed with ♥ by [CJ Patoilo](http://cjpatoilo.com), modified by [Mohammad Sharifi](http://lenus.org). Licensed under the [MIT License](http://cjpatoilo.mit-license.org).
